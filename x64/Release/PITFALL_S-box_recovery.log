@@ -1,0 +1,7 @@
+﻿  Ascon.cpp
+E:\Code\code\Ascon\PITFALL_S-box_recovery\Ascon.cpp(193,41): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 381 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PITFALL_S-box_recovery.vcxproj -> E:\Code\code\Ascon\PITFALL_S-box_recovery\x64\Release\PITFALL_S-box_recovery.exe
